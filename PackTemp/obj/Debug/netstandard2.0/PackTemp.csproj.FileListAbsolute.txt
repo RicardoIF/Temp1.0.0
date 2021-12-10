@@ -1,0 +1,9 @@
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\bin\Debug\netstandard2.0\PackTemp.deps.json
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\bin\Debug\netstandard2.0\PackTemp.dll
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\bin\Debug\netstandard2.0\PackTemp.pdb
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\obj\Debug\netstandard2.0\PackTemp.csprojAssemblyReference.cache
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\obj\Debug\netstandard2.0\PackTemp.AssemblyInfoInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\obj\Debug\netstandard2.0\PackTemp.AssemblyInfo.cs
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\obj\Debug\netstandard2.0\PackTemp.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\obj\Debug\netstandard2.0\PackTemp.dll
+C:\Users\Ricardo D.Monkey\source\repos\PackTemp\PackTemp\obj\Debug\netstandard2.0\PackTemp.pdb
